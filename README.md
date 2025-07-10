@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vartika Thapa</h1>
-<h3 align="center">CS Undergrad | ML & NLP Enthusiast | Building ML APIs & Dashboards</h3>
+<h1 align="center">Hi 👋, I'm Vartika </h1>
+<h3 align="center">CS Undergrad | ML & Deep Learning Enthusiast | Building ML APIs & Dashboards</h3>
 
 ---
 
