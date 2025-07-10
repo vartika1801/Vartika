@@ -4,10 +4,11 @@
 ---
 
 **About Me**  
-- Computer Science undergraduate, graduating **2026**   
-- Comfortable with: **Flask**, **Docker**, **Streamlit**, **Git**  
-- Interested in: NLP, MLOps-lite, applied AI  
-
+- Computer Science undergraduate, graduating **2026**    
+- Comfortable with: **Flask**, **Docker**, **Streamlit**, **Git**, **Evidently AI**  
+- Passionate about: **Machine Learning**, **Natural Language Processing**, and **Deep Learning**
+- Interested in: NLP, MLOps-lite, applied AI
+ 
 ---
 
 **Tech Stack**
@@ -24,6 +25,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Evidently AI](https://img.shields.io/badge/-Evidently%20AI-3F51B5?style=flat&logo=monitor&logoColor=white)
 
 ---
 
