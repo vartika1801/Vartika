@@ -4,7 +4,7 @@
 ---
 
 **About Me**  
-- Computer Science undergraduate, graduating **2026**    
+- Computer Science undergraduate   
 - Comfortable with: **Flask**, **Docker**, **Streamlit**, **Git**, **Evidently AI**  
 - Passionate about: **Machine Learning**, **Natural Language Processing**, and **Deep Learning**
 - Interested in: NLP, MLOps-lite, applied AI
